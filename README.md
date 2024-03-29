@@ -1,2 +1,4 @@
-# Cris-proyecto-grupal-progra
-Proyecto grupal programacion 
+# Cris-proyecto-grupal-programacion
+Cristofer Sandi Concepcion 
+Jonathan Abarca Fallas
+Mariam Mora Alvarez 
